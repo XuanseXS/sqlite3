@@ -1,11 +1,8 @@
 /*
- * @Author: XuanseXS 2334520090@qq.com
+ * @Author: XuanseXS 
  * @Date: 2024-02-05 09:35:54
- * @LastEditors: XuanseXS 2334520090@qq.com
+ * @LastEditors: XuanseXS 
  * @LastEditTime: 2024-02-05 13:44:42
- * @FilePath: /wicom-linux-kernel5.10-x2500lvgl-v1.4-20230927/iot/packages/apps/AI/src/mysqlite.c
- * @Description:
- *
  * Copyright (c) 2024 by ${git_name_email}, All Rights Reserved.
  */
 
@@ -16,7 +13,6 @@
 #include <sys/types.h>
 #include <sys/ipc.h>
 #include <sys/sem.h>
-#include "sqlite3.h"
 #include "mysqlite.h"
 #include "sqlite_semaphore.h"
 

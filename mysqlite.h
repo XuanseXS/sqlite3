@@ -1,11 +1,8 @@
 /*
- * @Author       : XuanseXS 2334520090@qq.com
+ * @Author       : XuanseXS 
  * @Date         : 2024-02-05 09:36:28
- * @LastEditors  : XuanseXS 2334520090@qq.com
- * @LastEditTime : 2024-02-05 17:38:05
- * @FilePath     : /wicom-linux-kernel5.10-x2500lvgl-v1.4-20230927/iot/packages/apps/AI/include/mysqlite.h
- * @Description  : 
- * 
+ * @LastEditors  : xuanse 
+ * @LastEditTime : 2024-03-13 22:26:35
  * Copyright (c) 2024 by ${git_name_email}, All Rights Reserved. 
  */
 
